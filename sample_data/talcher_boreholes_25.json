@@ -1,0 +1,2702 @@
+[
+  {
+    "borehole_id": "BH-TAL-01",
+    "block_name": "Talcher West Block-A",
+    "latitude": 20.9732,
+    "longitude": 85.1737,
+    "elevation_m": 126.2,
+    "total_depth_m": 180.1,
+    "drilling_date": "2024-03-16",
+    "driller_contractor": "CMPDI Regional Institute VII",
+    "status": "Validated",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 49.5,
+        "bottom_depth_m": 54.4,
+        "thickness_m": 4.9,
+        "ash_percent": 26.5,
+        "gcv_kcal_kg": 5342,
+        "moisture_percent": 6.4,
+        "grade": "G8"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 94.9,
+        "bottom_depth_m": 103.7,
+        "thickness_m": 8.8,
+        "ash_percent": 31.0,
+        "gcv_kcal_kg": 4995,
+        "moisture_percent": 6.9,
+        "grade": "G9"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 146.2,
+        "bottom_depth_m": 158.5,
+        "thickness_m": 12.3,
+        "ash_percent": 17.6,
+        "gcv_kcal_kg": 6232,
+        "moisture_percent": 4.9,
+        "grade": "G3"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 9.6,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 10.0,
+        "to_m": 49.5,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 49.5,
+        "to_m": 54.4,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 54.4,
+        "to_m": 70.6,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 70.6,
+        "to_m": 94.9,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 94.9,
+        "to_m": 103.7,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 103.7,
+        "to_m": 146.2,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 146.2,
+        "to_m": 158.5,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 158.5,
+        "to_m": 180.1,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  },
+  {
+    "borehole_id": "BH-TAL-02",
+    "block_name": "Talcher Central Block",
+    "latitude": 20.9699,
+    "longitude": 85.1609,
+    "elevation_m": 106.3,
+    "total_depth_m": 193.7,
+    "drilling_date": "2024-02-09",
+    "driller_contractor": "MECL Exploration Div",
+    "status": "Validated",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 45.1,
+        "bottom_depth_m": 51.3,
+        "thickness_m": 6.2,
+        "ash_percent": 23.9,
+        "gcv_kcal_kg": 5485,
+        "moisture_percent": 6.7,
+        "grade": "G8"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 100.4,
+        "bottom_depth_m": 109.7,
+        "thickness_m": 9.3,
+        "ash_percent": 29.8,
+        "gcv_kcal_kg": 5061,
+        "moisture_percent": 6.3,
+        "grade": "G9"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 151.7,
+        "bottom_depth_m": 166.2,
+        "thickness_m": 14.5,
+        "ash_percent": 18.1,
+        "gcv_kcal_kg": 6204,
+        "moisture_percent": 4.1,
+        "grade": "G3"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 8.4,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 5.2,
+        "to_m": 45.1,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 45.1,
+        "to_m": 51.3,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 51.3,
+        "to_m": 70.9,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 70.9,
+        "to_m": 100.4,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 100.4,
+        "to_m": 109.7,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 109.7,
+        "to_m": 151.7,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 151.7,
+        "to_m": 166.2,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 166.2,
+        "to_m": 193.7,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  },
+  {
+    "borehole_id": "BH-TAL-03",
+    "block_name": "Talcher East Block-B",
+    "latitude": 20.9719,
+    "longitude": 85.1752,
+    "elevation_m": 115.9,
+    "total_depth_m": 189.8,
+    "drilling_date": "2024-02-16",
+    "driller_contractor": "GSI Coal Wing",
+    "status": "Validated",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 40.1,
+        "bottom_depth_m": 46.4,
+        "thickness_m": 6.3,
+        "ash_percent": 26.3,
+        "gcv_kcal_kg": 5353,
+        "moisture_percent": 5.2,
+        "grade": "G8"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 89.9,
+        "bottom_depth_m": 98.5,
+        "thickness_m": 8.6,
+        "ash_percent": 27.5,
+        "gcv_kcal_kg": 5187,
+        "moisture_percent": 6.1,
+        "grade": "G9"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 148.5,
+        "bottom_depth_m": 161.1,
+        "thickness_m": 12.6,
+        "ash_percent": 19.6,
+        "gcv_kcal_kg": 6122,
+        "moisture_percent": 5.4,
+        "grade": "G5"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 8.9,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 6.5,
+        "to_m": 40.1,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 40.1,
+        "to_m": 46.4,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 46.4,
+        "to_m": 63.8,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 63.8,
+        "to_m": 89.9,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 89.9,
+        "to_m": 98.5,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 98.5,
+        "to_m": 148.5,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 148.5,
+        "to_m": 161.1,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 161.1,
+        "to_m": 189.8,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  },
+  {
+    "borehole_id": "BH-TAL-04",
+    "block_name": "Kalinga Extension South",
+    "latitude": 20.9947,
+    "longitude": 85.1839,
+    "elevation_m": 110.4,
+    "total_depth_m": 193.4,
+    "drilling_date": "2024-03-10",
+    "driller_contractor": "CMPDI Regional Institute VII",
+    "status": "Pending Review",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 42.2,
+        "bottom_depth_m": 46.7,
+        "thickness_m": 4.5,
+        "ash_percent": 24.3,
+        "gcv_kcal_kg": 5463,
+        "moisture_percent": 6.4,
+        "grade": "G8"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 87.1,
+        "bottom_depth_m": 97.5,
+        "thickness_m": 10.4,
+        "ash_percent": 27.1,
+        "gcv_kcal_kg": 5209,
+        "moisture_percent": 5.5,
+        "grade": "G9"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 144.3,
+        "bottom_depth_m": 164.8,
+        "thickness_m": 20.5,
+        "ash_percent": 22.1,
+        "gcv_kcal_kg": 5984,
+        "moisture_percent": 4.0,
+        "grade": "G5"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 7.7,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 8.7,
+        "to_m": 42.2,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 42.2,
+        "to_m": 46.7,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 46.7,
+        "to_m": 62.9,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 62.9,
+        "to_m": 87.1,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 87.1,
+        "to_m": 97.5,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 97.5,
+        "to_m": 144.3,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 144.3,
+        "to_m": 164.8,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 164.8,
+        "to_m": 193.4,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  },
+  {
+    "borehole_id": "BH-TAL-05",
+    "block_name": "Hingula Block North",
+    "latitude": 20.9641,
+    "longitude": 85.1768,
+    "elevation_m": 126.5,
+    "total_depth_m": 196.2,
+    "drilling_date": "2024-02-21",
+    "driller_contractor": "MECL Exploration Div",
+    "status": "Flagged Anomaly",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 48.5,
+        "bottom_depth_m": 54.4,
+        "thickness_m": 5.9,
+        "ash_percent": 22.0,
+        "gcv_kcal_kg": 5590,
+        "moisture_percent": 5.4,
+        "grade": "G6"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 97.3,
+        "bottom_depth_m": 108.6,
+        "thickness_m": 11.3,
+        "ash_percent": 42.0,
+        "gcv_kcal_kg": 3200,
+        "moisture_percent": 6.4,
+        "grade": "G12"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 147.4,
+        "bottom_depth_m": 158.9,
+        "thickness_m": 11.5,
+        "ash_percent": 17.0,
+        "gcv_kcal_kg": 6265,
+        "moisture_percent": 5.1,
+        "grade": "G3"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 9.0,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 7.2,
+        "to_m": 48.5,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 48.5,
+        "to_m": 54.4,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 54.4,
+        "to_m": 71.6,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 71.6,
+        "to_m": 97.3,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 97.3,
+        "to_m": 108.6,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 108.6,
+        "to_m": 147.4,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 147.4,
+        "to_m": 158.9,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 158.9,
+        "to_m": 196.2,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  },
+  {
+    "borehole_id": "BH-TAL-06",
+    "block_name": "Talcher West Block-A",
+    "latitude": 20.963,
+    "longitude": 85.1312,
+    "elevation_m": 113.9,
+    "total_depth_m": 205.1,
+    "drilling_date": "2024-04-07",
+    "driller_contractor": "GSI Coal Wing",
+    "status": "Validated",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 39.2,
+        "bottom_depth_m": 43.8,
+        "thickness_m": 4.6,
+        "ash_percent": 23.9,
+        "gcv_kcal_kg": 5485,
+        "moisture_percent": 5.5,
+        "grade": "G8"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 98.8,
+        "bottom_depth_m": 107.2,
+        "thickness_m": 8.4,
+        "ash_percent": 35.0,
+        "gcv_kcal_kg": 4775,
+        "moisture_percent": 6.9,
+        "grade": "G9"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 152.0,
+        "bottom_depth_m": 165.7,
+        "thickness_m": 13.7,
+        "ash_percent": 19.6,
+        "gcv_kcal_kg": 6122,
+        "moisture_percent": 5.4,
+        "grade": "G5"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 6.6,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 7.4,
+        "to_m": 39.2,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 39.2,
+        "to_m": 43.8,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 43.8,
+        "to_m": 65.8,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 65.8,
+        "to_m": 98.8,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 98.8,
+        "to_m": 107.2,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 107.2,
+        "to_m": 152.0,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 152.0,
+        "to_m": 165.7,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 165.7,
+        "to_m": 205.1,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  },
+  {
+    "borehole_id": "BH-TAL-07",
+    "block_name": "Talcher Central Block",
+    "latitude": 20.9833,
+    "longitude": 85.1988,
+    "elevation_m": 108.5,
+    "total_depth_m": 178.8,
+    "drilling_date": "2024-04-22",
+    "driller_contractor": "CMPDI Regional Institute VII",
+    "status": "Validated",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 33.9,
+        "bottom_depth_m": 40.0,
+        "thickness_m": 6.1,
+        "ash_percent": 21.4,
+        "gcv_kcal_kg": 5623,
+        "moisture_percent": 5.3,
+        "grade": "G6"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 80.8,
+        "bottom_depth_m": 91.1,
+        "thickness_m": 10.3,
+        "ash_percent": 35.1,
+        "gcv_kcal_kg": 4769,
+        "moisture_percent": 5.6,
+        "grade": "G9"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 127.4,
+        "bottom_depth_m": 143.4,
+        "thickness_m": 16.0,
+        "ash_percent": 19.4,
+        "gcv_kcal_kg": 6133,
+        "moisture_percent": 5.4,
+        "grade": "G5"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 7.3,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 9.0,
+        "to_m": 33.9,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 33.9,
+        "to_m": 40.0,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 40.0,
+        "to_m": 56.3,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 56.3,
+        "to_m": 80.8,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 80.8,
+        "to_m": 91.1,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 91.1,
+        "to_m": 127.4,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 127.4,
+        "to_m": 143.4,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 143.4,
+        "to_m": 178.8,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  },
+  {
+    "borehole_id": "BH-TAL-08",
+    "block_name": "Talcher East Block-B",
+    "latitude": 20.9679,
+    "longitude": 85.1753,
+    "elevation_m": 113.5,
+    "total_depth_m": 195.1,
+    "drilling_date": "2024-02-22",
+    "driller_contractor": "MECL Exploration Div",
+    "status": "Validated",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 49.3,
+        "bottom_depth_m": 55.6,
+        "thickness_m": 6.3,
+        "ash_percent": 22.8,
+        "gcv_kcal_kg": 5546,
+        "moisture_percent": 6.5,
+        "grade": "G6"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 96.8,
+        "bottom_depth_m": 106.2,
+        "thickness_m": 9.4,
+        "ash_percent": 35.0,
+        "gcv_kcal_kg": 4775,
+        "moisture_percent": 6.2,
+        "grade": "G9"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 153.6,
+        "bottom_depth_m": 166.2,
+        "thickness_m": 12.6,
+        "ash_percent": 17.1,
+        "gcv_kcal_kg": 6259,
+        "moisture_percent": 5.1,
+        "grade": "G3"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 5.1,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 7.2,
+        "to_m": 49.3,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 49.3,
+        "to_m": 55.6,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 55.6,
+        "to_m": 72.1,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 72.1,
+        "to_m": 96.8,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 96.8,
+        "to_m": 106.2,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 106.2,
+        "to_m": 153.6,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 153.6,
+        "to_m": 166.2,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 166.2,
+        "to_m": 195.1,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  },
+  {
+    "borehole_id": "BH-TAL-09",
+    "block_name": "Kalinga Extension South",
+    "latitude": 20.9581,
+    "longitude": 85.1444,
+    "elevation_m": 115.1,
+    "total_depth_m": 193.3,
+    "drilling_date": "2024-01-17",
+    "driller_contractor": "GSI Coal Wing",
+    "status": "Pending Review",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 36.7,
+        "bottom_depth_m": 42.9,
+        "thickness_m": 6.2,
+        "ash_percent": 25.1,
+        "gcv_kcal_kg": 5419,
+        "moisture_percent": 6.0,
+        "grade": "G8"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 84.7,
+        "bottom_depth_m": 92.8,
+        "thickness_m": 8.1,
+        "ash_percent": 28.7,
+        "gcv_kcal_kg": 5121,
+        "moisture_percent": 6.1,
+        "grade": "G9"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 142.0,
+        "bottom_depth_m": 158.2,
+        "thickness_m": 16.2,
+        "ash_percent": 5.2,
+        "gcv_kcal_kg": 6292,
+        "moisture_percent": 4.1,
+        "grade": "G3"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 8.9,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 7.1,
+        "to_m": 36.7,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 36.7,
+        "to_m": 42.9,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 42.9,
+        "to_m": 59.6,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 59.6,
+        "to_m": 84.7,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 84.7,
+        "to_m": 92.8,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 92.8,
+        "to_m": 142.0,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 142.0,
+        "to_m": 158.2,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 158.2,
+        "to_m": 193.3,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  },
+  {
+    "borehole_id": "BH-TAL-10",
+    "block_name": "Hingula Block North",
+    "latitude": 20.9624,
+    "longitude": 85.1813,
+    "elevation_m": 132.6,
+    "total_depth_m": 198.0,
+    "drilling_date": "2024-04-08",
+    "driller_contractor": "CMPDI Regional Institute VII",
+    "status": "Validated",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 48.2,
+        "bottom_depth_m": 53.5,
+        "thickness_m": 5.3,
+        "ash_percent": 24.0,
+        "gcv_kcal_kg": 5480,
+        "moisture_percent": 6.5,
+        "grade": "G8"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 106.3,
+        "bottom_depth_m": 117.7,
+        "thickness_m": 11.4,
+        "ash_percent": 31.1,
+        "gcv_kcal_kg": 4989,
+        "moisture_percent": 6.4,
+        "grade": "G9"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 159.2,
+        "bottom_depth_m": 170.8,
+        "thickness_m": 11.6,
+        "ash_percent": 16.2,
+        "gcv_kcal_kg": 6309,
+        "moisture_percent": 4.9,
+        "grade": "G3"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 6.1,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 9.1,
+        "to_m": 48.2,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 48.2,
+        "to_m": 53.5,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 53.5,
+        "to_m": 74.6,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 74.6,
+        "to_m": 106.3,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 106.3,
+        "to_m": 117.7,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 117.7,
+        "to_m": 159.2,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 159.2,
+        "to_m": 170.8,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 170.8,
+        "to_m": 198.0,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  },
+  {
+    "borehole_id": "BH-TAL-11",
+    "block_name": "Talcher West Block-A",
+    "latitude": 20.9686,
+    "longitude": 85.1469,
+    "elevation_m": 136.5,
+    "total_depth_m": 190.8,
+    "drilling_date": "2024-03-02",
+    "driller_contractor": "MECL Exploration Div",
+    "status": "Validated",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 38.3,
+        "bottom_depth_m": 44.5,
+        "thickness_m": 6.2,
+        "ash_percent": 22.7,
+        "gcv_kcal_kg": 5551,
+        "moisture_percent": 6.8,
+        "grade": "G6"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 97.7,
+        "bottom_depth_m": 107.4,
+        "thickness_m": 9.7,
+        "ash_percent": 26.4,
+        "gcv_kcal_kg": 5248,
+        "moisture_percent": 6.1,
+        "grade": "G9"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 155.9,
+        "bottom_depth_m": 167.4,
+        "thickness_m": 11.5,
+        "ash_percent": 16.5,
+        "gcv_kcal_kg": 6292,
+        "moisture_percent": 5.1,
+        "grade": "G3"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 9.7,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 5.3,
+        "to_m": 38.3,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 38.3,
+        "to_m": 44.5,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 44.5,
+        "to_m": 65.8,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 65.8,
+        "to_m": 97.7,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 97.7,
+        "to_m": 107.4,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 107.4,
+        "to_m": 155.9,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 155.9,
+        "to_m": 167.4,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 167.4,
+        "to_m": 190.8,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  },
+  {
+    "borehole_id": "BH-TAL-12",
+    "block_name": "Talcher Central Block",
+    "latitude": 20.9675,
+    "longitude": 85.1365,
+    "elevation_m": 139.8,
+    "total_depth_m": 191.4,
+    "drilling_date": "2024-01-16",
+    "driller_contractor": "GSI Coal Wing",
+    "status": "Flagged Anomaly",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 37.8,
+        "bottom_depth_m": 42.7,
+        "thickness_m": 4.9,
+        "ash_percent": 21.3,
+        "gcv_kcal_kg": 5628,
+        "moisture_percent": 5.8,
+        "grade": "G6"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 92.2,
+        "bottom_depth_m": 103.3,
+        "thickness_m": 11.1,
+        "ash_percent": 29.5,
+        "gcv_kcal_kg": 5077,
+        "moisture_percent": 6.2,
+        "grade": "G9"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 150.2,
+        "bottom_depth_m": 163.4,
+        "thickness_m": 13.2,
+        "ash_percent": 17.7,
+        "gcv_kcal_kg": 6226,
+        "moisture_percent": 4.5,
+        "grade": "G3"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 6.6,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 8.7,
+        "to_m": 37.8,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 37.8,
+        "to_m": 42.7,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 42.7,
+        "to_m": 62.5,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 62.5,
+        "to_m": 92.2,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 92.2,
+        "to_m": 103.3,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 103.3,
+        "to_m": 150.2,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 150.2,
+        "to_m": 163.4,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 163.4,
+        "to_m": 191.4,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  },
+  {
+    "borehole_id": "BH-TAL-13",
+    "block_name": "Talcher East Block-B",
+    "latitude": 20.9678,
+    "longitude": 85.1901,
+    "elevation_m": 120.0,
+    "total_depth_m": 203.6,
+    "drilling_date": "2024-01-04",
+    "driller_contractor": "CMPDI Regional Institute VII",
+    "status": "Validated",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 42.0,
+        "bottom_depth_m": 47.7,
+        "thickness_m": 5.7,
+        "ash_percent": 24.5,
+        "gcv_kcal_kg": 5452,
+        "moisture_percent": 6.0,
+        "grade": "G8"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 102.4,
+        "bottom_depth_m": 113.7,
+        "thickness_m": 11.3,
+        "ash_percent": 26.8,
+        "gcv_kcal_kg": 5226,
+        "moisture_percent": 6.2,
+        "grade": "G9"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 154.7,
+        "bottom_depth_m": 166.8,
+        "thickness_m": 12.1,
+        "ash_percent": 18.2,
+        "gcv_kcal_kg": 6199,
+        "moisture_percent": 5.4,
+        "grade": "G5"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 6.2,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 5.9,
+        "to_m": 42.0,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 42.0,
+        "to_m": 47.7,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 47.7,
+        "to_m": 69.6,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 69.6,
+        "to_m": 102.4,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 102.4,
+        "to_m": 113.7,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 113.7,
+        "to_m": 154.7,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 154.7,
+        "to_m": 166.8,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 166.8,
+        "to_m": 203.6,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  },
+  {
+    "borehole_id": "BH-TAL-14",
+    "block_name": "Kalinga Extension South",
+    "latitude": 20.9706,
+    "longitude": 85.1737,
+    "elevation_m": 105.9,
+    "total_depth_m": 199.4,
+    "drilling_date": "2024-02-15",
+    "driller_contractor": "MECL Exploration Div",
+    "status": "Pending Review",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 53.1,
+        "bottom_depth_m": 58.4,
+        "thickness_m": 5.3,
+        "ash_percent": 25.6,
+        "gcv_kcal_kg": 5392,
+        "moisture_percent": 5.6,
+        "grade": "G8"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 102.5,
+        "bottom_depth_m": 112.4,
+        "thickness_m": 9.9,
+        "ash_percent": 32.9,
+        "gcv_kcal_kg": 4890,
+        "moisture_percent": 6.3,
+        "grade": "G9"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 160.4,
+        "bottom_depth_m": 176.0,
+        "thickness_m": 15.6,
+        "ash_percent": 17.8,
+        "gcv_kcal_kg": 6221,
+        "moisture_percent": 4.2,
+        "grade": "G3"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 8.1,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 6.1,
+        "to_m": 53.1,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 53.1,
+        "to_m": 58.4,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 58.4,
+        "to_m": 76.0,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 76.0,
+        "to_m": 102.5,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 102.5,
+        "to_m": 112.4,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 112.4,
+        "to_m": 160.4,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 160.4,
+        "to_m": 176.0,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 176.0,
+        "to_m": 199.4,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  },
+  {
+    "borehole_id": "BH-TAL-15",
+    "block_name": "Hingula Block North",
+    "latitude": 20.954,
+    "longitude": 85.1395,
+    "elevation_m": 121.6,
+    "total_depth_m": 182.9,
+    "drilling_date": "2024-03-22",
+    "driller_contractor": "GSI Coal Wing",
+    "status": "Validated",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 42.6,
+        "bottom_depth_m": 48.3,
+        "thickness_m": 5.7,
+        "ash_percent": 21.2,
+        "gcv_kcal_kg": 5634,
+        "moisture_percent": 6.8,
+        "grade": "G6"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 88.7,
+        "bottom_depth_m": 99.9,
+        "thickness_m": 11.2,
+        "ash_percent": 26.9,
+        "gcv_kcal_kg": 5220,
+        "moisture_percent": 6.1,
+        "grade": "G9"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 141.0,
+        "bottom_depth_m": 154.0,
+        "thickness_m": 13.0,
+        "ash_percent": 19.8,
+        "gcv_kcal_kg": 6111,
+        "moisture_percent": 5.3,
+        "grade": "G5"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 7.5,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 7.0,
+        "to_m": 42.6,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 42.6,
+        "to_m": 48.3,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 48.3,
+        "to_m": 64.5,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 64.5,
+        "to_m": 88.7,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 88.7,
+        "to_m": 99.9,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 99.9,
+        "to_m": 141.0,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 141.0,
+        "to_m": 154.0,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 154.0,
+        "to_m": 182.9,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  },
+  {
+    "borehole_id": "BH-TAL-16",
+    "block_name": "Talcher West Block-A",
+    "latitude": 20.9848,
+    "longitude": 85.18,
+    "elevation_m": 127.5,
+    "total_depth_m": 181.9,
+    "drilling_date": "2024-04-03",
+    "driller_contractor": "CMPDI Regional Institute VII",
+    "status": "Validated",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 46.8,
+        "bottom_depth_m": 52.0,
+        "thickness_m": 5.2,
+        "ash_percent": 23.7,
+        "gcv_kcal_kg": 5496,
+        "moisture_percent": 5.9,
+        "grade": "G8"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 93.3,
+        "bottom_depth_m": 102.0,
+        "thickness_m": 8.7,
+        "ash_percent": 35.0,
+        "gcv_kcal_kg": 4775,
+        "moisture_percent": 6.8,
+        "grade": "G9"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 138.9,
+        "bottom_depth_m": 153.3,
+        "thickness_m": 14.4,
+        "ash_percent": 18.1,
+        "gcv_kcal_kg": 6204,
+        "moisture_percent": 5.3,
+        "grade": "G3"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 8.0,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 7.6,
+        "to_m": 46.8,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 46.8,
+        "to_m": 52.0,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 52.0,
+        "to_m": 68.5,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 68.5,
+        "to_m": 93.3,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 93.3,
+        "to_m": 102.0,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 102.0,
+        "to_m": 138.9,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 138.9,
+        "to_m": 153.3,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 153.3,
+        "to_m": 181.9,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  },
+  {
+    "borehole_id": "BH-TAL-17",
+    "block_name": "Talcher Central Block",
+    "latitude": 20.9849,
+    "longitude": 85.1801,
+    "elevation_m": 108.9,
+    "total_depth_m": 182.1,
+    "drilling_date": "2024-04-16",
+    "driller_contractor": "MECL Exploration Div",
+    "status": "Validated",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 36.6,
+        "bottom_depth_m": 43.1,
+        "thickness_m": 6.5,
+        "ash_percent": 25.0,
+        "gcv_kcal_kg": 5425,
+        "moisture_percent": 6.3,
+        "grade": "G8"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 83.8,
+        "bottom_depth_m": 93.7,
+        "thickness_m": 9.9,
+        "ash_percent": 31.5,
+        "gcv_kcal_kg": 4967,
+        "moisture_percent": 5.7,
+        "grade": "G9"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 137.3,
+        "bottom_depth_m": 152.2,
+        "thickness_m": 14.9,
+        "ash_percent": 21.0,
+        "gcv_kcal_kg": 6045,
+        "moisture_percent": 4.5,
+        "grade": "G5"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 7.7,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 9.6,
+        "to_m": 36.6,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 36.6,
+        "to_m": 43.1,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 43.1,
+        "to_m": 59.4,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 59.4,
+        "to_m": 83.8,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 83.8,
+        "to_m": 93.7,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 93.7,
+        "to_m": 137.3,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 137.3,
+        "to_m": 152.2,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 152.2,
+        "to_m": 182.1,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  },
+  {
+    "borehole_id": "BH-TAL-18",
+    "block_name": "Talcher East Block-B",
+    "latitude": 20.9892,
+    "longitude": 85.1266,
+    "elevation_m": 114.7,
+    "total_depth_m": 180.6,
+    "drilling_date": "2024-04-22",
+    "driller_contractor": "GSI Coal Wing",
+    "status": "Validated",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 35.7,
+        "bottom_depth_m": 40.2,
+        "thickness_m": 4.5,
+        "ash_percent": 22.9,
+        "gcv_kcal_kg": 5540,
+        "moisture_percent": 6.1,
+        "grade": "G6"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 86.8,
+        "bottom_depth_m": 96.8,
+        "thickness_m": 10.0,
+        "ash_percent": 33.9,
+        "gcv_kcal_kg": 4835,
+        "moisture_percent": 6.0,
+        "grade": "G9"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 145.8,
+        "bottom_depth_m": 159.6,
+        "thickness_m": 13.8,
+        "ash_percent": 17.9,
+        "gcv_kcal_kg": 6215,
+        "moisture_percent": 4.5,
+        "grade": "G3"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 8.7,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 7.7,
+        "to_m": 35.7,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 35.7,
+        "to_m": 40.2,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 40.2,
+        "to_m": 58.8,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 58.8,
+        "to_m": 86.8,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 86.8,
+        "to_m": 96.8,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 96.8,
+        "to_m": 145.8,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 145.8,
+        "to_m": 159.6,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 159.6,
+        "to_m": 180.6,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  },
+  {
+    "borehole_id": "BH-TAL-19",
+    "block_name": "Kalinga Extension South",
+    "latitude": 20.9608,
+    "longitude": 85.1469,
+    "elevation_m": 135.6,
+    "total_depth_m": 187.6,
+    "drilling_date": "2024-03-27",
+    "driller_contractor": "CMPDI Regional Institute VII",
+    "status": "Pending Review",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 43.6,
+        "bottom_depth_m": 48.7,
+        "thickness_m": 5.1,
+        "ash_percent": 23.0,
+        "gcv_kcal_kg": 5535,
+        "moisture_percent": 5.4,
+        "grade": "G6"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 94.7,
+        "bottom_depth_m": 105.0,
+        "thickness_m": 10.3,
+        "ash_percent": 32.5,
+        "gcv_kcal_kg": 4912,
+        "moisture_percent": 5.7,
+        "grade": "G9"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 145.6,
+        "bottom_depth_m": 157.3,
+        "thickness_m": 11.7,
+        "ash_percent": 17.0,
+        "gcv_kcal_kg": 6265,
+        "moisture_percent": 4.3,
+        "grade": "G3"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 9.1,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 8.2,
+        "to_m": 43.6,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 43.6,
+        "to_m": 48.7,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 48.7,
+        "to_m": 67.1,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 67.1,
+        "to_m": 94.7,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 94.7,
+        "to_m": 105.0,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 105.0,
+        "to_m": 145.6,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 145.6,
+        "to_m": 157.3,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 157.3,
+        "to_m": 187.6,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  },
+  {
+    "borehole_id": "BH-TAL-20",
+    "block_name": "Hingula Block North",
+    "latitude": 20.9601,
+    "longitude": 85.174,
+    "elevation_m": 132.2,
+    "total_depth_m": 194.8,
+    "drilling_date": "2024-04-05",
+    "driller_contractor": "MECL Exploration Div",
+    "status": "Validated",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 45.2,
+        "bottom_depth_m": 51.2,
+        "thickness_m": 6.0,
+        "ash_percent": 25.6,
+        "gcv_kcal_kg": 5392,
+        "moisture_percent": 5.6,
+        "grade": "G8"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 102.2,
+        "bottom_depth_m": 111.3,
+        "thickness_m": 9.1,
+        "ash_percent": 28.2,
+        "gcv_kcal_kg": 5149,
+        "moisture_percent": 7.0,
+        "grade": "G9"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 150.6,
+        "bottom_depth_m": 163.9,
+        "thickness_m": 13.3,
+        "ash_percent": 17.0,
+        "gcv_kcal_kg": 6265,
+        "moisture_percent": 5.4,
+        "grade": "G3"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 9.1,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 6.7,
+        "to_m": 45.2,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 45.2,
+        "to_m": 51.2,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 51.2,
+        "to_m": 71.6,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 71.6,
+        "to_m": 102.2,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 102.2,
+        "to_m": 111.3,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 111.3,
+        "to_m": 150.6,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 150.6,
+        "to_m": 163.9,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 163.9,
+        "to_m": 194.8,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  },
+  {
+    "borehole_id": "BH-TAL-21",
+    "block_name": "Talcher West Block-A",
+    "latitude": 20.9631,
+    "longitude": 85.1384,
+    "elevation_m": 127.3,
+    "total_depth_m": 205.1,
+    "drilling_date": "2024-02-05",
+    "driller_contractor": "GSI Coal Wing",
+    "status": "Validated",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 51.5,
+        "bottom_depth_m": 56.3,
+        "thickness_m": 4.8,
+        "ash_percent": 23.0,
+        "gcv_kcal_kg": 5535,
+        "moisture_percent": 6.8,
+        "grade": "G6"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 100.5,
+        "bottom_depth_m": 111.7,
+        "thickness_m": 11.2,
+        "ash_percent": 26.7,
+        "gcv_kcal_kg": 5231,
+        "moisture_percent": 6.1,
+        "grade": "G9"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 154.7,
+        "bottom_depth_m": 166.5,
+        "thickness_m": 11.8,
+        "ash_percent": 16.6,
+        "gcv_kcal_kg": 6287,
+        "moisture_percent": 4.6,
+        "grade": "G3"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 10.0,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 6.5,
+        "to_m": 51.5,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 51.5,
+        "to_m": 56.3,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 56.3,
+        "to_m": 74.0,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 74.0,
+        "to_m": 100.5,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 100.5,
+        "to_m": 111.7,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 111.7,
+        "to_m": 154.7,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 154.7,
+        "to_m": 166.5,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 166.5,
+        "to_m": 205.1,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  },
+  {
+    "borehole_id": "BH-TAL-22",
+    "block_name": "Talcher Central Block",
+    "latitude": 20.9518,
+    "longitude": 85.1964,
+    "elevation_m": 108.9,
+    "total_depth_m": 204.2,
+    "drilling_date": "2024-04-10",
+    "driller_contractor": "CMPDI Regional Institute VII",
+    "status": "Flagged Anomaly",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 38.9,
+        "bottom_depth_m": 44.4,
+        "thickness_m": 5.5,
+        "ash_percent": 23.2,
+        "gcv_kcal_kg": 5524,
+        "moisture_percent": 6.2,
+        "grade": "G6"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 99.3,
+        "bottom_depth_m": 108.7,
+        "thickness_m": 9.4,
+        "ash_percent": 35.0,
+        "gcv_kcal_kg": 4775,
+        "moisture_percent": 6.3,
+        "grade": "G9"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 154.8,
+        "bottom_depth_m": 170.9,
+        "thickness_m": 16.1,
+        "ash_percent": 22.8,
+        "gcv_kcal_kg": 5946,
+        "moisture_percent": 4.5,
+        "grade": "G5"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 7.4,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 8.5,
+        "to_m": 38.9,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 38.9,
+        "to_m": 44.4,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 44.4,
+        "to_m": 66.4,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 66.4,
+        "to_m": 99.3,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 99.3,
+        "to_m": 108.7,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 108.7,
+        "to_m": 154.8,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 154.8,
+        "to_m": 170.9,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 170.9,
+        "to_m": 204.2,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  },
+  {
+    "borehole_id": "BH-TAL-23",
+    "block_name": "Talcher East Block-B",
+    "latitude": 20.9537,
+    "longitude": 85.1459,
+    "elevation_m": 135.5,
+    "total_depth_m": 212.7,
+    "drilling_date": "2024-04-16",
+    "driller_contractor": "MECL Exploration Div",
+    "status": "Validated",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 53.7,
+        "bottom_depth_m": 59.8,
+        "thickness_m": 6.1,
+        "ash_percent": 23.9,
+        "gcv_kcal_kg": 5485,
+        "moisture_percent": 5.6,
+        "grade": "G8"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 113.7,
+        "bottom_depth_m": 124.1,
+        "thickness_m": 10.4,
+        "ash_percent": 29.3,
+        "gcv_kcal_kg": 5088,
+        "moisture_percent": 6.5,
+        "grade": "G9"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 164.1,
+        "bottom_depth_m": 177.8,
+        "thickness_m": 13.7,
+        "ash_percent": 20.8,
+        "gcv_kcal_kg": 6056,
+        "moisture_percent": 4.6,
+        "grade": "G5"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 6.4,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 9.4,
+        "to_m": 53.7,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 53.7,
+        "to_m": 59.8,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 59.8,
+        "to_m": 81.4,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 81.4,
+        "to_m": 113.7,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 113.7,
+        "to_m": 124.1,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 124.1,
+        "to_m": 164.1,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 164.1,
+        "to_m": 177.8,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 177.8,
+        "to_m": 212.7,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  },
+  {
+    "borehole_id": "BH-TAL-24",
+    "block_name": "Kalinga Extension South",
+    "latitude": 20.97,
+    "longitude": 85.1765,
+    "elevation_m": 139.7,
+    "total_depth_m": 197.3,
+    "drilling_date": "2024-01-16",
+    "driller_contractor": "GSI Coal Wing",
+    "status": "Validated",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 47.9,
+        "bottom_depth_m": 53.5,
+        "thickness_m": 5.6,
+        "ash_percent": 26.4,
+        "gcv_kcal_kg": 5348,
+        "moisture_percent": 6.3,
+        "grade": "G8"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 108.4,
+        "bottom_depth_m": 117.1,
+        "thickness_m": 8.7,
+        "ash_percent": 34.8,
+        "gcv_kcal_kg": 4786,
+        "moisture_percent": 6.0,
+        "grade": "G9"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 157.0,
+        "bottom_depth_m": 170.0,
+        "thickness_m": 13.0,
+        "ash_percent": 20.0,
+        "gcv_kcal_kg": 6100,
+        "moisture_percent": 4.4,
+        "grade": "G5"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 9.6,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 6.7,
+        "to_m": 47.9,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 47.9,
+        "to_m": 53.5,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 53.5,
+        "to_m": 75.5,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 75.5,
+        "to_m": 108.4,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 108.4,
+        "to_m": 117.1,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 117.1,
+        "to_m": 157.0,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 157.0,
+        "to_m": 170.0,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 170.0,
+        "to_m": 197.3,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  },
+  {
+    "borehole_id": "BH-TAL-25",
+    "block_name": "Hingula Block North",
+    "latitude": 20.9508,
+    "longitude": 85.188,
+    "elevation_m": 130.0,
+    "total_depth_m": 199.4,
+    "drilling_date": "2024-01-10",
+    "driller_contractor": "CMPDI Regional Institute VII",
+    "status": "Validated",
+    "seam_summary": [
+      {
+        "seam_name": "Seam III (Top)",
+        "top_depth_m": 37.9,
+        "bottom_depth_m": 42.6,
+        "thickness_m": 4.7,
+        "ash_percent": 26.9,
+        "gcv_kcal_kg": 5320,
+        "moisture_percent": 6.1,
+        "grade": "G8"
+      },
+      {
+        "seam_name": "Seam II (Middle)",
+        "top_depth_m": 97.2,
+        "bottom_depth_m": 107.6,
+        "thickness_m": 10.4,
+        "ash_percent": 29.5,
+        "gcv_kcal_kg": 5077,
+        "moisture_percent": 6.3,
+        "grade": "G9"
+      },
+      {
+        "seam_name": "Seam I (Bottom)",
+        "top_depth_m": 154.0,
+        "bottom_depth_m": 168.3,
+        "thickness_m": 14.3,
+        "ash_percent": 21.5,
+        "gcv_kcal_kg": 6017,
+        "moisture_percent": 5.0,
+        "grade": "G5"
+      }
+    ],
+    "lithology": [
+      {
+        "from_m": 0.0,
+        "to_m": 10.0,
+        "lithology_type": "Topsoil & Weathered Alluvium",
+        "color": "#8D6E63",
+        "description": "Weathered surface soil and alluvium clay."
+      },
+      {
+        "from_m": 7.5,
+        "to_m": 37.9,
+        "lithology_type": "Coarse Sandstone",
+        "color": "#D7CCC8",
+        "description": "Coarse grained feldspathic sandstone."
+      },
+      {
+        "from_m": 37.9,
+        "to_m": 42.6,
+        "lithology_type": "Coal (Seam III)",
+        "color": "#212121",
+        "description": "Bright to dull banded coal."
+      },
+      {
+        "from_m": 42.6,
+        "to_m": 64.4,
+        "lithology_type": "Carbonaceous Shale",
+        "color": "#424242",
+        "description": "Dark grey carbonaceous shale."
+      },
+      {
+        "from_m": 64.4,
+        "to_m": 97.2,
+        "lithology_type": "Medium Sandstone",
+        "color": "#CFD8DC",
+        "description": "Grey medium sandstone."
+      },
+      {
+        "from_m": 97.2,
+        "to_m": 107.6,
+        "lithology_type": "Coal (Seam II)",
+        "color": "#1A1A1A",
+        "description": "Dull banded coal seam II."
+      },
+      {
+        "from_m": 107.6,
+        "to_m": 154.0,
+        "lithology_type": "Fine Sandstone & Siltstone",
+        "color": "#B0BEC5",
+        "description": "Interbedded siltstone and sandstone."
+      },
+      {
+        "from_m": 154.0,
+        "to_m": 168.3,
+        "lithology_type": "Coal (Seam I)",
+        "color": "#000000",
+        "description": "High grade thick coal seam I."
+      },
+      {
+        "from_m": 168.3,
+        "to_m": 199.4,
+        "lithology_type": "Basement Metamorphics",
+        "color": "#546E7A",
+        "description": "Granitic basement."
+      }
+    ]
+  }
+]

@@ -1,0 +1,5 @@
+Borehole_ID,Latitude,Longitude,Elevation_m,Total_Depth_m,Seam_I_Thick_m,Ash_Percent,GCV_kcal_kg,Status
+BH-TAL-01,20.9452,85.1234,122.5,180.0,13.2,19.8,6150,Validated
+BH-TAL-04,20.9575,85.1445,115.2,175.0,20.5,17.5,6450,Pending Review
+BH-TAL-05,20.9630,85.1550,130.0,225.0,12.2,42.0,3200,Flagged Anomaly
+BH-TAL-26,20.9680,85.1620,128.0,190.0,14.1,21.2,5980,New Upload
